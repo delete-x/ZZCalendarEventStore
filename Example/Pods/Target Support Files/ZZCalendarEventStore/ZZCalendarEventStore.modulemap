@@ -1,0 +1,6 @@
+framework module ZZCalendarEventStore {
+  umbrella header "ZZCalendarEventStore-umbrella.h"
+
+  export *
+  module * { export * }
+}

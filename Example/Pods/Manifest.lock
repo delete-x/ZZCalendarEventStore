@@ -1,0 +1,16 @@
+PODS:
+  - ZZCalendarEventStore (0.1.0)
+
+DEPENDENCIES:
+  - ZZCalendarEventStore (from `../`)
+
+EXTERNAL SOURCES:
+  ZZCalendarEventStore:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZZCalendarEventStore: 8f98a8950cd8e1e7cdc11a1810a300e1ed52ce83
+
+PODFILE CHECKSUM: 4434f4113ad0f1679c7c58aeda0a54cdb2e98455
+
+COCOAPODS: 1.9.1
