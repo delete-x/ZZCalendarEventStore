@@ -17,15 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
+  s.description      = 'ZZCalendarEventStore simplifies calling some oF the apis in EventKit.'
 
-  s.homepage         = 'https://github.com/coder_rqb@163.com/ZZCalendarEventStore'
+  s.homepage         = 'https://github.com/delete-x/ZZCalendarEventStore'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'coder_rqb@163.com' => '1850665560@qq.com' }
-  s.source           = { :git => 'https://github.com/coder_rqb@163.com/ZZCalendarEventStore.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/delete-x/ZZCalendarEventStore.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'
